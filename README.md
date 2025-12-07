@@ -44,16 +44,7 @@ A powerful CLI tool that automates:
 
 👉 **Check it out:**  
 https://github.com/eabeljohn453/git-autotool
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eabeljohn453&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eabeljohn453&layout=compact&theme=tokyonight" />
-</p>
-
+ 
 ---
 
 ## 🔥 Streak Stats
@@ -63,14 +54,7 @@ https://github.com/eabeljohn453/git-autotool
 </p>
 
 ---
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eabeljohn453&theme=tokyonight&column=4&margin-w=15&margin-h=15" />
-</p>
-
----
+ 
 
 ## 📈 Contribution Graph
 
