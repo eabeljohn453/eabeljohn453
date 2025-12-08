@@ -47,13 +47,7 @@ https://github.com/eabeljohn453/git-autotool
  
 ---
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=eabeljohn453&theme=tokyonight&hide_border=true" />
-</p>
-
----
+ 
  
 
 ## 📈 Contribution Graph
