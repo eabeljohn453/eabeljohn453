@@ -18,7 +18,7 @@
 `JavaScript` · `TypeScript` · `Python` · `C`
 
 **Frontend**  
-`React` · `Next.js` · `TailwindCSS` · `HTML` · `CSS`
+`React` · `Next.js` · `TailwindCSS` · `HTML` 
 
 **Backend**  
 `Node.js` · `Express.js` · `MongoDB`
